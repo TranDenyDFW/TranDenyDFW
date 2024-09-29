@@ -47,7 +47,7 @@
     - It's nice that PySpark developers have ML options, but for serious work, you'll likely have to use PyTorch or TensorFlow.
   - DuckDB is amazing. It handled the 35M+ rows here easily. On top of that (prior to this), the 550M+ rows of data from the FSNDS was easily consumed and queried.
     - With that said, DuckDB will only work well if you let it do the indexing. For example, if you tried to add all the FSNDS primary/foreign keys, it'll become unresponsive during data insert.
-    - So, good a quick go-to for big datasets. But not so much if you're looking for something more.
+    - So, a good quick go-to for big datasets. But not so much if you're looking for something more.
 <br>
 <h4><i> <a href="https://www.kaggle.com/code/denytran/hugging-face-fsnonotesdatasets-starter">Financial Statements And No-Notes Datasets</a></i></h4>
 

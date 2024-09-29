@@ -33,7 +33,7 @@
   - [SQL Queries for Mere Mortals, John Viescas](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0134858336)
 - The toughest part was trying to deal with such amount of data when never having done something like this before. After shedding many tears and breaking many more databases, it's fairly smooth sailing.
 
-
+<br>
 <h4><i> <a href="https://www.kaggle.com/code/denytran/10-year-auto-loans-a-z-starter-pyspark-duckdb">Analysis of 10-Year Auto-Loan Payments</a></i></h4>
 
 - Based on one of the many parsed [SEC's ABS-EE (Asset Backed Securities - Electronic Exhibits)](https://huggingface.co/DenyTranDFW) XML datasets.
@@ -48,17 +48,17 @@
   - DuckDB is amazing. It handled the 35M+ rows here easily. On top of that (prior to this), the 550M+ rows of data from the FSNDS was easily consumed and queried.
     - With that said, DuckDB will only work well if you let it do the indexing. For example, if you tried to add all the FSNDS primary/foreign keys, it'll become unresponsive during data insert.
     - So, good a quick go-to for big datasets. But not so much if you're looking for something more.
-
+<br>
 <h4><i> <a href="https://www.kaggle.com/code/denytran/hugging-face-fsnonotesdatasets-starter">Financial Statements And No-Notes Datasets</a></i></h4>
 
 - This was an extraction of the [FSNDS](https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset) to test the quality of the data after it was exported from SQL Server.
 
-
+<br>
 <h4><i> <a href="https://www.kaggle.com/code/denytran/tabular-financial-data-generator">Tabular Data Generator</a></i></h4>
 
 - Similarly, an extraction of the [FSNDS](https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset), but used here instead, for creating training data for a Tabular LLM (i.e., [TaBERT](https://github.com/facebookresearch/TaBERT)).
 
-
+<br>
 <h4><i> <a href="https://huggingface.co/DenyTranDFW/gpt2-next-tag-prediction">GPT2 - Predicting Financial Statement Line Items</a></i></h4>
 
 - Here, we train a GPT2 model on XBRL tags (i.e., AssetsCurrent) for next-word prediction (statement line item).

@@ -34,7 +34,7 @@
 - The toughest part was trying to deal with such a large amount of data when never having done something like this before. After shedding many tears and breaking many more databases, it was smooth sailing.
 
 <br>
-<h4><i> <a href="https://www.kaggle.com/code/denytran/10-year-auto-loans-a-z-starter-pyspark-duckdb">Analysis of 10-Year Auto-Loan Payments</a></i></h4>
+<h4><i> <a href="https://www.kaggle.com/code/denytran/10-year-auto-loans-a-z-starter-pyspark-duckdb">10-Year Auto-Loan Payments + PySpark ML</a></i></h4>
 
 - Based on one of the many parsed [SEC's ABS-EE (Asset Backed Securities - Electronic Exhibits)](https://huggingface.co/DenyTranDFW) XML datasets.
 - Purpose of illustration was more-or-less for:

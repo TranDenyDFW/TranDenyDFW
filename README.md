@@ -65,7 +65,7 @@
 - This was based primarily on curiosity, since we know that if we tell a model something enough times, it'll remember it.
 - The results though, was somewhat enlightening:
   - When given: "AssetsCurrent", rather than returning the tag (i.e., "PropertyPlantAndEquipmentNet"), the model would return "Property"
-  - This is likely because it was initially trained to know that "PropertyPlantAndEquipmentNet" are composed of multiple words, so, 10-epochs of 35000 XBRL tags will likely not change the fact that "Property" is the next word.
+  - This is likely because it was initially trained to know that "PropertyPlantAndEquipmentNet" are composed of multiple words, so, 10-epochs of 35000 XBRL tags will likely not change the fact that "Property" is the valid next word.
 
 
 

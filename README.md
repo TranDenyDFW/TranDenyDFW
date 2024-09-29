@@ -31,7 +31,7 @@
   - [Effective SQL - 61 Specific Ways to Write Better SQL, John L. Viescas, Douglas J. Steele, Ben G. Clothier](https://www.amazon.com/Effective-SQL-Specific-Software-Development/dp/0134578899)
   - [SQL Antipatterns, Bill Karwin](https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557)
   - [SQL Queries for Mere Mortals, John Viescas](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0134858336)
-- The toughest part was trying to deal with such amount of data when never having done something like this before. After shedding many tears and breaking many more databases, it's fairly smooth sailing.
+- The toughest part was trying to deal with such a large amount of data when never having done something like this before. After shedding many tears and breaking many more databases, it was smooth sailing.
 
 <br>
 <h4><i> <a href="https://www.kaggle.com/code/denytran/10-year-auto-loans-a-z-starter-pyspark-duckdb">Analysis of 10-Year Auto-Loan Payments</a></i></h4>

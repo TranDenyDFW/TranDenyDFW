@@ -33,6 +33,9 @@
   - [SQL Queries for Mere Mortals, John Viescas](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0134858336)
 - The toughest part was trying to deal with such a large amount of data when never having done something like this before. After shedding many tears and breaking many more databases, it was smooth sailing.
 
+<center>
+<img src="https://cdn-lfs-us-1.hf.co/repos/d9/68/d968a759e896eb8a5136c6a26499f087fe3a8108c8cd8547e727a72c1c346d84/1266fd9924f81703a62dd1e4878c814c17542086b9a3d6e178cfff3094d383a7?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27fsnds-graph.png%3B+filename%3D%22fsnds-graph.png%22%3B&response-content-type=image%2Fpng&Expires=1727996552&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzk5NjU1Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zL2Q5LzY4L2Q5NjhhNzU5ZTg5NmViOGE1MTM2YzZhMjY0OTlmMDg3ZmUzYTgxMDhjOGNkODU0N2U3MjdhNzJjMWMzNDZkODQvMTI2NmZkOTkyNGY4MTcwM2E2MmRkMWU0ODc4YzgxNGMxNzU0MjA4NmI5YTNkNmUxNzhjZmZmMzA5NGQzODNhNz9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=kNyzXarMZmGYpf3%7ENhV97JLn83ZcEqpTuIZRPOr28Hs21omTgIxaCZIaxVDU3JYl-ZdbITaXpwpPRLoDZcQikZ4jzd%7EAjyd5CpoYF--oIDm0eZIYlXvNqY6%7ESdrdEP0LnaO4lgRX0lXrW0qeV6nWkCONkqHT3a6CF6EV-suckxU5kfvar6481MlUj4yQY3dC0EM4ut7r0IN3T6SLbUCy2MRyj3DJEz-i-DLjfY5NEX32yu4XNDBCF2Fnj8Ga-H%7EbMm5elNDTpgQjL4giwWIVWO-xvW4pncCNj%7EYd7BJqFcKynpUZ9OTGsxVPlaIsJ7y10DP1TCj44waGuazo8EVEiA__&Key-Pair-Id=K24J24Z295AEI9" alt="fsnds_graph" width="800" height="800"></center>
+
 <br>
 <h4><i> <a href="https://www.kaggle.com/code/denytran/10-year-auto-loans-a-z-starter-pyspark-duckdb">10-Year Auto-Loan Payments + PySpark ML</a></i></h4>
 
@@ -67,7 +70,8 @@
 <h4><i> <a href="https://github.com/TranDenyDFW/Excel_Operating_Model">Excel Operating Model</a></i></h4>
 
 - A financial model I created back in 2017 from scraped data.
-- The way the data is stored is somewhat naive, but nonetheless, enlightening.
+- The way the data is stored is somewhat naive, but the project as a whole was nonetheless, enlightening.
 
+![operating_model](https://github.com/TranDenyDFW/Excel_Operating_Model/blob/main/operating_model.png)
 
 

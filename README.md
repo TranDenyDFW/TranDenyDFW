@@ -62,11 +62,6 @@
 - Similarly, an extraction of the [FSNDS](https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset), but used here instead, for creating training data for a Tabular LLM (i.e., [TaBERT](https://github.com/facebookresearch/TaBERT)).
 
 <br>
-<h4><i> <a href="https://www.kaggle.com/code/denytran/hugging-face-fsnonotesdatasets-starter">Financial Statements And No-Notes Datasets</a></i></h4>
-
-- This was an extraction of the [FSNDS](https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset) to test the quality of the data after it was exported from SQL Server.
-
-<br>
 <h4><i> <a href="https://github.com/TranDenyDFW/Excel_Operating_Model">Excel Operating Model</a></i></h4>
 
 - A financial model I created back in 2017 from scraped data.

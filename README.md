@@ -58,14 +58,5 @@
 
 - Similarly, an extraction of the [FSNDS](https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset), but used here instead, for creating training data for a Tabular LLM (i.e., [TaBERT](https://github.com/facebookresearch/TaBERT)).
 
-<br>
-<h4><i> <a href="https://huggingface.co/DenyTranDFW/gpt2-next-tag-prediction">GPT2 - Predicting Financial Statement Line Items</a></i></h4>
-
-- Here, we train a GPT2 model on XBRL tags (i.e., AssetsCurrent) for next-word prediction (statement line item).
-- This was based primarily on curiosity, since we know that if we tell a model something enough times, it'll remember it.
-- The results though, was somewhat enlightening:
-  - When given: "AssetsCurrent", rather than returning the tag (i.e., "PropertyPlantAndEquipmentNet"), the model would return "Property"
-  - This is likely because it was initially trained to know that "PropertyPlantAndEquipmentNet" are composed of multiple words, so, 10-epochs of 35000 XBRL tags will likely not change the fact that "Property" is the valid next word.
-
 
 

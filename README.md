@@ -20,7 +20,7 @@
 <h2>About Me</h2>
 <p>I've spent my entire professional career in Information Technology, moving through roles from Help Desk to Network Cable Installation and Inventory Manager. Lately, I’ve realized that in my last few jobs, I tended to follow a familiar pattern: I’d jump in, learn the ropes quickly, and then find myself spending my free time creating solutions on "How to make my job easier."</p><p>What started with Excel and VBA has evolved into a deeper dive into Python and SQL. This is me taking a big step in a different direction, embracing my passion for coding and analysis!</p></div>
 <div align="left">  <br>
-<h2>Self-Concocted SQL-/ETL-/ML-Related Stuff</h2>
+<h2>Self-Concocted SQL-/ETL-/ML-/Analyst-Related Stuff</h2>
 <h4><i> <a href="https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset">SEC-Financial-Statements-And-Notes-Dataset</a></i></h4>
 
 - Built from the [SEC's Financial Statements & Notes](https://www.sec.gov/data-research/financial-statement-notes-data-sets) .tsv datasets.
@@ -57,6 +57,17 @@
 <h4><i> <a href="https://www.kaggle.com/code/denytran/tabular-financial-data-generator">Tabular Data Generator</a></i></h4>
 
 - Similarly, an extraction of the [FSNDS](https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset), but used here instead, for creating training data for a Tabular LLM (i.e., [TaBERT](https://github.com/facebookresearch/TaBERT)).
+
+<br>
+<h4><i> <a href="https://www.kaggle.com/code/denytran/hugging-face-fsnonotesdatasets-starter">Financial Statements And No-Notes Datasets</a></i></h4>
+
+- This was an extraction of the [FSNDS](https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset) to test the quality of the data after it was exported from SQL Server.
+
+<br>
+<h4><i> <a href="https://github.com/TranDenyDFW/Excel_Operating_Model">Excel Operating Model</a></i></h4>
+
+- A financial model I created back in 2017 from scraped data.
+- The way the data is stored is somewhat naive, but nonetheless, enlightening.
 
 
 

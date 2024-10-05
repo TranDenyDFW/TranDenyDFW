@@ -18,7 +18,7 @@
 <hr>
 <div align="left">
 <h2>About Me</h2>
-<p>I've spent my entire professional career in Information Technology, moving through roles from Help Desk to Network Cable Installation and Inventory Manager. Lately, I’ve realized that in my last few jobs, I tended to follow a familiar pattern: I’d jump in, learn the ropes quickly, and then find myself spending my free time creating solutions on "How to make my job easier."</p><p>What started with Excel and VBA has evolved into a deeper dive into Python and SQL. This is me taking a big step in a different direction, embracing my passion for coding and analysis!</p></div>
+<p>I've spent my entire professional career in Information Technology, moving through roles from Help Desk to Network Cable Installation and Inventory Manager. Lately, I’ve realized that in my last few jobs, I tended to follow a familiar pattern: I’d jump in, learn the ropes quickly, and then find myself spending my free time creating solutions on "How to make my job easier."</p><p>What started with Excel and VBA has evolved into a deeper dive into Python and SQL.</p></div>
 <div align="left">  <br>
 <h2>Self-Concocted SQL-/ETL-/ML-/Analyst-Related Stuff</h2>
 <h4><i> <a href="https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset">SEC-Financial-Statements-And-Notes-Dataset</a></i></h4>

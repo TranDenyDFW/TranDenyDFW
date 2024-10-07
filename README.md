@@ -18,7 +18,7 @@
 <hr>
 <div align="left">
 <h2>About Me</h2>
-<p>I've spent my entire professional career in Information Technology, moving through roles from Help Desk to Network Cable Installation and Inventory Manager. Lately, I’ve realized that in my last few jobs, I tended to follow a familiar pattern: I’d jump in, learn the ropes quickly, and then find myself spending my free time creating solutions on "How to make my job easier."</p><p>What started with Excel and VBA has evolved into a deeper dive into Python and SQL.</p></div>
+<p>I’m Deny Tran, a data professional with a passion for solving complex problems and continuous learning. My career path has been driven by curiosity and a desire to excel, from mastering Python and SQL to navigating the intricacies of machine learning.</p></div>
 <div align="left">  <br>
 <h2>Self-Concocted SQL-/ETL-/ML-/Analyst-Related Stuff</h2>
 <h4><i> <a href="https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset">SEC-Financial-Statements-And-Notes-Dataset</a></i></h4>

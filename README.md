@@ -34,8 +34,7 @@
 - The toughest part was trying to deal with such a large amount of data when never having done something like this before. After shedding many tears and breaking many more databases, it was smooth sailing.
 
 <center>
-<img src="https://media.licdn.com/dms/image/v2/D562DAQHHmPkwMbiv6Q/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1728121554171?e=1728752400&v=beta&t=2thwlGHuRiV2lRrrO38pyMr9JBSdL2wBeLz59i_v8dQ" alt="fsnds_graph" width="800" height="800"></center>
-
+<img src="https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset/resolve/main/dataset-previous-life-info/fsnds-graph.png?download=true" alt="fsnds_graph" width="800" height="800"></center>
 <br>
 <h4><i> <a href="https://www.kaggle.com/code/denytran/10-year-auto-loans-a-z-starter-pyspark-duckdb">10-Year Auto-Loan Payments + PySpark ML</a></i></h4>
 

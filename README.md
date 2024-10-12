@@ -31,7 +31,6 @@
   - [Effective SQL - 61 Specific Ways to Write Better SQL, John L. Viescas, Douglas J. Steele, Ben G. Clothier](https://www.amazon.com/Effective-SQL-Specific-Software-Development/dp/0134578899)
   - [SQL Antipatterns, Bill Karwin](https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557)
   - [SQL Queries for Mere Mortals, John Viescas](https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0134858336)
-- The toughest part was trying to deal with such a large amount of data when never having done something like this before. After shedding many tears and breaking many more databases, it was smooth sailing.
 
 <center>
 <img src="https://huggingface.co/datasets/DenyTranDFW/SEC-Financial-Statements-And-Notes-Dataset/resolve/main/dataset-previous-life-info/fsnds-graph.png?download=true" alt="fsnds_graph" width="800" height="800"></center>

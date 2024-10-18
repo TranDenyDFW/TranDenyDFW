@@ -68,3 +68,8 @@
 ![operating_model](https://github.com/TranDenyDFW/Excel_Operating_Model/blob/main/operating_model.png)
 
 
+<br>
+<h4><i> <a href="https://github.com/TranDenyDFW/CMS-Data">Leveraging PowerBI + Public Data For Actionable Insights</a></i></h4>
+
+![cmsdata](https://github.com/TranDenyDFW/CMS-Data/blob/main/CMS-Data.png)
+
